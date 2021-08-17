@@ -7,9 +7,9 @@ Implements:
 
 ____
 ## Installation:
-
+```
 pip install funnydeco
-
+```
 ____
 ## Examples:
 
