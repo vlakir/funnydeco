@@ -1,4 +1,4 @@
-from funnydeco import singleton, SingletonReseter
+from funnydeco.core import singleton, SingletonReseter
 from time import sleep
 
 

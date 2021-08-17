@@ -5,7 +5,7 @@ Implements:
 1. Benchmarking util for methods
 2. Singleton pattern for classes
 
-
+____
 ##Examples:
 
 ###1. Benchmark decorators
@@ -33,7 +33,6 @@ if __name__ == '__main__':
     long_loop()
 ```
     
-____
 ###2. Singleton decorators
 
 ```python

@@ -7,7 +7,7 @@ requirements = []
 
 setup(
     name="funnydeco",
-    version="0.1.0",
+    version="0.1.4",
     author="Vladimir Kirievskiy",
     author_email="vlakir1234@gmail.com",
     description="Collection of useful decorators for various python projects",
