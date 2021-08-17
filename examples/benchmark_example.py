@@ -1,4 +1,4 @@
-from core import benchmark
+from funnydeco import benchmark
 
 
 # noinspection PyUnusedLocal

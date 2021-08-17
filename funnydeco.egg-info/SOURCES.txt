@@ -1,0 +1,7 @@
+LICENSE
+README.md
+setup.py
+funnydeco.egg-info/PKG-INFO
+funnydeco.egg-info/SOURCES.txt
+funnydeco.egg-info/dependency_links.txt
+funnydeco.egg-info/top_level.txt

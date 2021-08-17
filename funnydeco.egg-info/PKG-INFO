@@ -1,3 +1,17 @@
+Metadata-Version: 2.1
+Name: funnydeco
+Version: 0.1.0
+Summary: Collection of useful decorators for various python projects
+Home-page: https://github.com/vlakir/funnydeco/
+Author: Vladimir Kirievskiy
+Author-email: vlakir1234@gmail.com
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3.9
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # funnydeco
 Collection of useful decorators for python projects
 Implements:
@@ -77,3 +91,5 @@ if __name__ == '__main__':
     print(dumbass4.variable)
     print()
 ```
+
+
