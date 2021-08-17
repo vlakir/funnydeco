@@ -6,7 +6,7 @@ Implements:
 2. Singleton pattern for classes
 
 ____
-##Examples:
+## Examples:
 
 ###1. Benchmark decorators
 
