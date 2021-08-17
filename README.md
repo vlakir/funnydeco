@@ -6,6 +6,11 @@ Implements:
 2. Singleton pattern for classes
 
 ____
+## Installation:
+
+pip install funnydeco
+
+____
 ## Examples:
 
 ### 1. Benchmark decorator
