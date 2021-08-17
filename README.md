@@ -8,7 +8,7 @@ Implements:
 ____
 ## Examples:
 
-###1. Benchmark decorators
+### 1. Benchmark decorators
 
 ```python
 from funnydeco import benchmark
@@ -33,7 +33,7 @@ if __name__ == '__main__':
     long_loop()
 ```
     
-###2. Singleton decorators
+### 2. Singleton decorators
 
 ```python
 from funnydeco import singleton, SingletonReseter
