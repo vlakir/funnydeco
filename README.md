@@ -1,5 +1,5 @@
 # funnydeco
-Collection of useful decorators for python projects
+Collection of useful decorators for python projects.
 Implements:
 
 1. Benchmarking util for methods
