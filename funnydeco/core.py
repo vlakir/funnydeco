@@ -1,9 +1,13 @@
+from functools import wraps
+
+
 def benchmark(func):
     """
     Outputs the execution time of the decorated function.
     """
     import time
 
+    @wraps(func)
     def wrapper(*args, **kwargs):
         timer_start = time.perf_counter()
         result = func(*args, **kwargs)
@@ -21,6 +25,7 @@ def singleton(class_):
     """
     singleton.instances = {}
 
+    @wraps(class_)
     def wrapper(*args, **kwargs):
         if class_.__name__ not in singleton.instances:
             singleton.instances[class_.__name__] = class_(*args, **kwargs)
