@@ -85,3 +85,5 @@ if __name__ == '__main__':
 ```
 
 If you do not need to use reset_singleton functionality you may not to inherit your class from SingletonReseter
+
+____
