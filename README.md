@@ -1,6 +1,6 @@
 [![PyPi Version](https://img.shields.io/pypi/v/funnydeco.svg?style=flat-square)](https://pypi.org/project/funnydeco)
 
-# funnydeco
+# FunnyDeco
 Collection of useful decorators for python projects
 
 Implements:
